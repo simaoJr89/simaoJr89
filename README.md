@@ -5,15 +5,12 @@
 [![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://simaotechservices.blogspot.com/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/simaotechservices)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/simaojunioroficial10/)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+258848564731)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](simaomabasso87@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/simaojunior.mabasso)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simao-mabasso-junior-84ba74218/)
 [![Wix](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white)]()
 
 ![Simao Junior GitHub stats](https://github-readme-stats.vercel.app/api?username=simaoJr87&show_icons=true&theme=radical) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simaoJr87&layout=donut)](https://github.com/simaoJr87github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simaoJr87&layout=compact&theme=radical)
 
 ## Tecnologias que mais uso
 
@@ -31,3 +28,8 @@
 ## Alguns videos do meu canal 
 - [Uso do QPagination no Quasar](https://www.youtube.com/watch?v=IuIIcYJRMwU&t=8s) </br>
 - [Activacao do Windows sem o uso de aplicativo](https://www.youtube.com/watch?v=B51T1QOWn0I)
+
+## Contactos
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+258848564731)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](simaomabasso87@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/simaojunior.mabasso)
