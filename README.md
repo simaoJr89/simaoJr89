@@ -11,8 +11,9 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simao-mabasso-junior-84ba74218/)
 [![Wix](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white)]()
 
-![Simao Junior GitHub stats](https://github-readme-stats.vercel.app/api?username=simaoJr87&show_icons=true&theme=radical)
+![Simao Junior GitHub stats](https://github-readme-stats.vercel.app/api?username=simaoJr87&show_icons=true&theme=radical) 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simaoJr87&layout=donut)](https://github.com/simaoJr87github-readme-stats)
 
 ## Tecnologias que mais uso
 
